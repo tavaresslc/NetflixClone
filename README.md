@@ -10,14 +10,14 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 
 [NetflixClone](https://5nyrwp.csb.app/)
 
-##Funcionalidades
+## Funcionalidades
 
 - Exibição de lista de filmes e series
 - Destaque em destaque na parte superior da página
 - Alteração da cor do cabeçalho conforme você rola a página
 - Carregamento de dados da API TMDb
 
-##Créditos
+## Créditos
 
 Dados dos filmes são fornecidos por The Movie Database (TMDb).
 Direitos de imagem para Netflix.
